@@ -1,0 +1,9 @@
+# Intellij Specific
+.idea/
+*.iml
+
+# Java specific
+target/
+
+# Javascript specific
+node_modules/
